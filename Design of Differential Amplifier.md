@@ -21,8 +21,10 @@ an inverting amplifier and it is given as
 <img width="202" height="70" alt="image" src="https://github.com/user-attachments/assets/3cd34e03-1b28-4e8a-90a6-fe0c096c84cc" />
 
 ## CIRCUIT DIAGRAM: 
+<img width="1059" height="605" alt="image" src="https://github.com/user-attachments/assets/8b54c471-9e30-4c27-ba6c-88c0df256d07" />
 
 ## MODEL GRAPH:
+<img width="1052" height="642" alt="image" src="https://github.com/user-attachments/assets/f6b2016f-94a3-4927-bcfa-86b81272ee2f" />
 
 ## PROCEDURE:  
 ## Differential amplifier 
@@ -40,8 +42,11 @@ constant input voltage Vin2 to inverting terminal of op-amp through R2.
 <img width="284" height="156" alt="image" src="https://github.com/user-attachments/assets/48e39114-6231-4be4-9ac3-f0cb8999dc24" />
 
 ## TABULATION:
+<img width="1050" height="508" alt="image" src="https://github.com/user-attachments/assets/5fd0b26d-5cd0-46cd-85c5-2f44350d1250" />
 
 ## CALCULATIONS:
+<img width="1056" height="810" alt="image" src="https://github.com/user-attachments/assets/e3c82f0d-4995-4b5a-b268-ff1f73c454c9" />
+
 
 ## GRAPH:
 
