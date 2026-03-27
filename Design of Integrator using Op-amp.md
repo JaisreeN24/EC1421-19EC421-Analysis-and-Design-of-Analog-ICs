@@ -67,6 +67,7 @@ are plotted in a graph sheet.
 ## GRAPH:
 <img width="553" height="813" alt="image" src="https://github.com/user-attachments/assets/75e3cf65-e935-49b8-add7-3de8bc629c38" />
 
+<img width="534" height="811" alt="image" src="https://github.com/user-attachments/assets/37cbc73d-75a8-4e30-a650-c5a290b3ceef" />
 
 
 
