@@ -71,6 +71,7 @@ are plotted in a graph sheet.
 
 
 
+
 ## RESULT:
 
 Thus an Integrator using op-amp are designed and their performance was successfully tested using op-amp IC 741. 
