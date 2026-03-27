@@ -15,8 +15,10 @@ The circuit closed-loop voltage gain is
 ACL = 1 + ( RF / R1)
 
 ## CIRCUIT DIAGRAM:
+<img width="942" height="490" alt="image" src="https://github.com/user-attachments/assets/ad45c34c-d3e9-4823-94d4-c37eeabf9d68" />
 
 ## MODEL GRAPH:
+<img width="935" height="465" alt="image" src="https://github.com/user-attachments/assets/d535ad05-ce19-4b4a-8ad6-36c316b12d76" />
 
 ## PROCEDURE:
 ### Non-Inverting Amplifier
@@ -32,10 +34,13 @@ ACL = 1 + ( RF / R1)
 <img width="364" height="160" alt="image" src="https://github.com/user-attachments/assets/d96a8dca-c14f-4be2-995d-c8b29d9ce178" />
 
 ## TABULATION:
+<img width="972" height="428" alt="image" src="https://github.com/user-attachments/assets/b2d64636-fbf5-4710-b75e-c18323c3ecdc" />
 
 ## CALCULATIONS:
+<img width="981" height="319" alt="image" src="https://github.com/user-attachments/assets/09f47611-0839-4c61-8d5a-3ed3ec13b4c4" />
 
 ## GRAPH:
+<img width="611" height="882" alt="image" src="https://github.com/user-attachments/assets/58b1f8fe-82d0-4e0d-abef-ab3a01d3d23c" />
 
 ## RESULT:
 Thus the Non-Inverting Amplifier are designed and their performance was successfully tested using op-amp IC 741.
